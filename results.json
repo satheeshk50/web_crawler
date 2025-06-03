@@ -1,0 +1,68 @@
+[
+  {
+    "title": "The 2025 AI Index Report | Stanford HAI",
+    "content": "Stanford University Stanford Home Maps & Directions Search Stanford Emergency Info Terms of Use Privacy Copyright Trademarks Non-Discrimination Accessibility © Stanford University. Stanford, California 94305. Pause Media Stay Up To Date Get the latest news, advances in research, policy work, and education program updates from HAI in your inbox weekly. Sign Up For Latest News Navigate About Events Careers Search Participate Get Involved Support HAI Contact Us The 2025 AI Index Report | Stanford HAI Your browser does not support the video tag. The 2025 AI Index Report Read the 2025 AI Index Report Watch Seminar Access the Public Data Past Reports Skip to content About About About People Get Involved with HAI Support HAI Research Research Research Fellowship Programs Grants Student Affinity Groups Centers & Labs Research Publications Research Partners Education Education Education Executive and Professional Education Government and Policymakers K-12 Stanford Students Policy Policy Policy Policy Publications Policymaker Education Student Opportunities AI Index AI Index AI Index AI Index Report Global Vibrancy Tool People News Events Industry Centers & Labs The 2024 AI Index Report Welcome to the seventh edition of the AI Index report. The 2024 Index is our most comprehensive to date and arrives at an important moment when AI’s influence on society has never been more pronounced. The 2023 AI Index Report The AI Index is an independent initiative at the Stanford Institute for Human-Centered Artificial Intelligence (HAI), led by the AI Index Steering Committee, an interdisciplinary group of experts from across academia and industry. The 2022 AI Index Report The AI Index is an independent initiative at the Stanford Institute for Human-Centered Artificial Intelligence (HAI), led by the AI Index Steering Committee, an interdisciplinary group of experts from across academia and industry. The 2021 AI Index Report This year we significantly expanded the amount of data available in the report, worked with a broader set of external organizations to calibrate our data, and deepened our connections with Stanford HAI. The 2019 AI Index Report The AI Index Report tracks, collates, distills, and visualizes data relating to artificial intelligence. Its mission is to provide unbiased, rigorous, and comprehensive data for policymakers, researchers, journalists, executives, and the general public to develop a deeper understanding of the complex field of AI. The 2018 AI Index Report Artificial Intelligence has leapt to the forefront of global discourse, garnering increased attention from practitioners, industry leaders, policymakers, and the general public. The diversity of opinions and debates gathered from news articles this year illustrates just how broadly AI is being investigated, studied, and applied. However, the field of AI is still evolving rapidly and even experts have a hard time understanding and tracking progress across the field. The 2017 AI Index Report Artificial Intelligence has leapt to the forefront of global discourse, garnering increased attention from practitioners, industry leaders, policymakers, and the general public. The diversity of opinions and debates gathered from news articles this year illustrates just how broadly AI is being investigated, studied, and applied. However, the field of AI is still evolving rapidly and even experts have a hard time understanding and tracking progress across the field. AI’s influence on society has never been more pronounced. At Stanford HAI, we believe AI is poised to be the most transformative technology of the 21st century. But its benefits won’t be evenly distributed unless we guide its development thoughtfully. The AI Index offers one of the most comprehensive, data-driven views of artificial intelligence. Recognized as a trusted resource by global media, governments, and leading companies, the AI Index equips policymakers, business leaders, and the public with rigorous, objective insights into AI’s technical progress, economic influence, and societal impact. Top Takeaways 1. AI performance on demanding benchmarks continues to improve. In 2023, researchers introduced new benchmarks—MMMU, GPQA, and SWE-bench—to test the limits of advanced AI systems. Just a year later, performance sharply increased: scores rose by 18.8, 48.9, and 67.3 percentage points on MMMU, GPQA, and SWE-bench, respectively. Beyond benchmarks, AI systems made major strides in generating high-quality video, and in some settings, language model agents even outperformed humans in programming tasks with limited time budgets. 2. AI is increasingly embedded in everyday life. From healthcare to transportation, AI is rapidly moving from the lab to daily life. In 2023, the FDA approved 223 AI-enabled medical devices, up from just six in 2015. On the roads, self-driving cars are no longer experimental: Waymo, one of the largest U.S. operators, provides over 150,000 autonomous rides each week, while Baidu’s ",
+    "description": "",
+    "url": "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+    "word_count": 1871,
+    "status": "success",
+    "internal_links": [
+      "https://hai.stanford.edu/events/presenting-the-2025-ai-index",
+      "https://hai.stanford.edu/about",
+      "https://hai.stanford.edu/about/giving-stanford-hai",
+      "https://hai.stanford.edu/contact-us",
+      "https://hai.stanford.edu/search",
+      "https://hai.stanford.edu/events",
+      "https://hai.stanford.edu/",
+      "https://hai.stanford.edu/subscribe-hai-mailing-list",
+      "https://hai.stanford.edu/careers",
+      "https://hai.stanford.edu/about/get-involved"
+    ],
+    "internal_links_count": 10,
+    "search_title": "The 2025 AI Index Report | Stanford HAI",
+    "search_snippet": "We curated a summary of highlights from the AI Index Report 2025 that are particularly relevant to policymakers and other policy audiences.",
+    "search_position": 1,
+    "crawled_at": "2025-05-24 12:11:13"
+  },
+  {
+    "title": "",
+    "content": "",
+    "description": "",
+    "url": "https://www.bloomberg.com/features/2025-artificial-intelligence-future/",
+    "word_count": 0,
+    "status": "error: 403 Client Error: Forbidden for url: https://www.bloomberg.com/features/2025-artificial-intelligence-future/",
+    "internal_links": [],
+    "search_title": "Why the AI Future Is Unfolding Faster Than Anyone Expected",
+    "search_snippet": "AI is improving more quickly than we realize. The economic and societal impact could be massive. By Brad Stone",
+    "search_position": 2,
+    "crawled_at": "2025-05-24 12:11:15"
+  },
+  {
+    "title": "What's next for AI in 2025 | MIT Technology Review",
+    "content": "Artificial intelligence What’s next for AI in 2025 You already know that agents and small language models are the next big things. Here are five other hot trends you should watch out for this year. By James O'Donnell archive page Will Douglas Heaven archive page Melissa Heikkilä archive page January 8, 2025 Stephanie Arnett/MIT Technology Review | Lummi MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . For the last couple of years we’ve had a go at predicting what’s coming next in AI. A fool’s game given how fast this industry moves. But we’re on a roll , and we’re doing it again. How did we score last time round? Our four hot trends to watch out for in 2024 included what we called customized chatbots—interactive helper apps powered by multimodal large language models (check: we didn’t know it yet, but we were talking about what everyone now calls agents , the hottest thing in AI right now); generative video (check: few technologies have improved so fast in the last 12 months , with OpenAI and Google DeepMind releasing their flagship video generation models, Sora and Veo, within a week of each other this December); and more general-purpose robots that can do a wider range of tasks (check: the payoffs from large language models continue to trickle down to other parts of the tech industry , and robotics is top of the list ). We also said that AI-generated election disinformation would be everywhere, but here—happily—we got it wrong. There were many things to wring our hands over this year, but political deepfakes were thin on the ground . So what’s coming in 2025? We’re going to ignore the obvious here: You can bet that agents and smaller, more efficient, language models will continue to shape the industry. Instead, here are five alternative picks from our AI team. 1. Generative virtual playgrounds If 2023 was the year of generative images and 2024 was the year of generative video —what comes next? If you guessed generative virtual worlds (a.k.a. video games), high fives all round. We got a tiny glimpse of this technology in February, when Google DeepMind revealed a generative model called Genie that could take a still image and turn it into a side-scrolling 2D platform game that players could interact with. In December, the firm revealed Genie 2 , a model that can spin a starter image into an entire virtual world. Other companies are building similar tech. In October, the AI startups Decart and Etched revealed an unofficial Minecraft hack in which every frame of the game gets generated on the fly as you play . And World Labs, a startup cofounded by Fei-Fei Li—creator of ImageNet, the vast data set of photos that kick-started the deep-learning boom—is building what it calls large world models, or LWMs. One obvious application is video games. There’s a playful tone to these early experiments, and generative 3D simulations could be used to explore design concepts for new games, turning a sketch into a playable environment on the fly. This could lead to entirely new types of games . But they could also be used to train robots. World Labs wants to develop so-called spatial intelligence—the ability for machines to interpret and interact with the everyday world. But robotics researchers lack good data about real-world scenarios with which to train such technology. Spinning up countless virtual worlds and dropping virtual robots into them to learn by trial and error could help make up for that. — Will Douglas Heaven 2. Large language models that “reason” The buzz was justified. When OpenAI revealed o1 in September, it introduced a new paradigm in how large language models work. Two months later, the firm pushed that paradigm forward in almost every way with o3—a model that just might reshape this technology for good. Most models, including OpenAI’s flagship GPT-4, spit out the first response they come up with. Sometimes it’s correct; sometimes it’s not . But the firm's new models are trained to work through their answers step by step, breaking down tricky problems into a series of simpler ones. When one approach isn’t working, they try another. This technique, known as “reasoning” (yes— we know exactly how loaded that term is ), can make this technology more accurate, especially for math, physics, and logic problems. Related Story What are AI agents? The next big thing is AI tools that can do more complex tasks. Here’s how they will work. It’s also crucial for agents. In December, Google DeepMind revealed an experimental new web-browsing agent called Mariner. In the middle of a preview demo that the company gave to MIT Technology Review , Mariner seemed to get stuck. Megha Goel, a product manager at the company, had asked the agent to find her a recipe for Christmas cookies that looked like the ones in a photo she’d given it. Mariner found a recipe on the web and started adding the ingredients to ",
+    "description": "You already know that agents and small language models are the next big things. Here are five other hot trends you should watch out for this year.",
+    "url": "https://www.technologyreview.com/2025/01/08/1109188/whats-next-for-ai-in-2025/",
+    "word_count": 2501,
+    "status": "success",
+    "internal_links": [
+      "https://www.technologyreview.com/audio",
+      "https://www.technologyreview.com/newsletter-preferences",
+      "https://www.technologyreview.com/featured",
+      "https://www.technologyreview.com/all-topics",
+      "https://www.technologyreview.com/",
+      "https://www.technologyreview.com/author/melissa-heikkila/",
+      "https://www.technologyreview.com/author/will-douglas-heaven/",
+      "https://www.technologyreview.com/login&redirectTo=/",
+      "https://www.technologyreview.com/author/james-odonnell/",
+      "https://www.technologyreview.com/topic/artificial-intelligence/"
+    ],
+    "internal_links_count": 10,
+    "search_title": "What's next for AI in 2025 | MIT Technology Review",
+    "search_snippet": "Meta has released massive data sets and models that could help scientists use AI to discover new materials much faster, and in December, Hugging ...",
+    "search_position": 3,
+    "crawled_at": "2025-05-24 12:11:16"
+  },
+  {
+    "prompt for the tool": "you got the  content from the web and internal links \n    you need to decide which internal links have useful content which is helpful to explain the topic to the user\n    after that you need to call the tool to get the content from the internal links by passing the url to that tool"
+  }
+]
