@@ -11,10 +11,10 @@ load_dotenv()
 
 mcp = FastMCP("content crawler")
 
-# crawler = ContentCrawler(os.getenv("SERPER_API_KEY"))
-crawler = ContentCrawler("5538f5b0ddbf20f1f349364f0895f17a19581c64")
-# crawler2 = URLScraper(os.getenv("FIRECRAWL_API_KEY"))
-crawler2 = URLScraper("fc-1290f6ebe83f4641a1a04e3e03dd45fb")
+crawler = ContentCrawler(os.getenv("SERPER_API_KEY"))
+
+crawler2 = URLScraper(os.getenv("FIRECRAWL_API_KEY"))
+
 
 @mcp.tool()  
 async def get_content(topic: str) -> str:
